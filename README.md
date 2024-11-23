@@ -111,10 +111,13 @@ Execute the programs and publish them.
 
 ## OUTPUT
 ![alt text](<1 (2).png>)
-![alt text](2.png)
-![alt text](3.png)
-![alt text](4.png)
-![alt text](5.png)
-![alt text](6.png)
+![alt text](<2 (2).png>)
+![alt text](<3 (2).png>)
+![alt text](<4 (2).png>)
+![alt text](<5 (2).png>)
+![alt text](<6 (2).png>)
+
+
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
